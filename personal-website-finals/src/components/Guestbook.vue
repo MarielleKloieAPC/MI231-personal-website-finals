@@ -136,7 +136,7 @@
   
   textarea {
     width: 100%;
-    height: 200px;
+    height: 100px;
     padding: 10px;
     margin-top: 15px;
     border: 1px solid #ddd;
@@ -353,7 +353,7 @@
   
   button {
     width: 50%;
-    background: #2e295f;
+    background: #403a84;
     color: white;
     padding: 10px;
     border: none;
@@ -366,6 +366,6 @@
   }
   
   button:hover {
-    background: #393380;
+    background: #4c44a4;
   }
   </style>
